@@ -1,0 +1,4 @@
+jwtUtil:
+  secretKey: ThisIsSecretForJWTHS512SignatureAlgorithmThatMUSTHave64ByteLengthAndShouldBeKeptSecret
+  expiration: 900
+  
